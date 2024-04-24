@@ -36,6 +36,9 @@
 - [ Low Level Boot Sector Programming ] (https://www.youtube.com/playlist?list=PLeiDFxcsdhUpsXNWZDjK0HnO6tjp2ZLjN)
 
 https://brennan.io/2015/01/16/write-a-shell-in-c/
+
 https://youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD_Rn-re&si=f-XDzZMnHEgD3Apm
+
 https://youtube.com/@NeilRhodesHMC?feature=shared
+
 https://youtube.com/playlist?list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld&si=VPPHOmLI1FHJhElK
