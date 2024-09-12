@@ -42,3 +42,5 @@ https://youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD_Rn-re&si=f-XDzZMn
 https://youtube.com/@NeilRhodesHMC?feature=shared
 
 https://youtube.com/playlist?list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld&si=VPPHOmLI1FHJhElK
+
+https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ
